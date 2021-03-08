@@ -15,7 +15,7 @@
   </p>
   
  <h3> Data visualisation </h3>
- <p> The first chart shows the number of MRI scans at <b>Salford Royal Hospitals<b>
+ <p> The first chart shows the number of MRI scans at <b>Salford Royal Hospital<b>
   
  <div class="flourish-embed" data-src="story/781715"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
