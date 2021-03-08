@@ -1,5 +1,3 @@
-# ms-investigation
-
 <html lang="en">
   <h1> MS investigation </h1>
   <p class="intro">
