@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src="https://unpkg.com/intersection-observer"></script>
+    <script src="https://unpkg.com/scrollama"></script>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Scrollama: Basic Example</title>
@@ -146,6 +148,8 @@
         });
 
         // 1. setup the scroller with the bare-bones options
+        import "intersection-observer";
+        import scrollama from "scrollama";
         // 		this will also initialize trigger observations
         // 2. bind scrollama event handlers (this can be chained like below)
         scroller
