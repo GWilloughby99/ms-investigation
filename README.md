@@ -6,7 +6,7 @@
 
 <h3> Get the data </h3>
 <p>
-  To access the data used in this article, it can be found in the <i>data</i> section of this repo.
+  To access the data used in this article, it can be found in the <i>data</i> section of this repo which is under <i>docs</i>.
   </p>
   
  <h3> Methodology </h3>
