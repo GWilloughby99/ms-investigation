@@ -1,5 +1,3 @@
-# Image used
-
 <html lang="en">
 <!-- All sources granted use of pictures and consent was ensured -->
   <h1> Image sources </h1>
