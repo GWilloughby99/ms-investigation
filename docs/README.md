@@ -15,8 +15,5 @@
   </p>
   
  <h3> Data visualisation </h3>
- <p> The first chart shows the number of MRI scans at <b>Salford Royal Hospital<b>
+ <p> To view or download the visualisations used in this piece, they can be found in the <i>visualisations</i> folder in this repo. </p>
   
- <div class="flourish-embed" data-src="story/781715"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
- 
- https://public.flourish.studio/story/781715/
