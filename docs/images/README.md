@@ -5,7 +5,9 @@
     The sources used in the article as follows:</p>
     <ul>
       <li>MS Trust</li>
-      <li>MS Societ</li>
-      <li>Salford Royal Hospital</li>
+      <li>MS Society</li>
+      <li>Salford Royal Hospital NHS Foundaion Trust</li>
+      <li> The Walton Centre </li>
+      <li> The Department for Health and Social Care </li>
     <ul>
         
