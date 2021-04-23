@@ -13,10 +13,4 @@
  <p>
   All the data in this piece was acquired using Freedom of Information requests. National data was difficult to obtain, so a localised approached requesting data from hospitals proved to be the most effective strategy.
   </p>
-  
- <h3> Data visualisation </h3>
- <p> The first chart shows the number of MRI scans at <b>Salford Royal Hospital<b>
-  
- <div class="flourish-embed" data-src="story/781715"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
- https://public.flourish.studio/story/781715/
