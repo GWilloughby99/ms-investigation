@@ -24,3 +24,10 @@ The embed code: <div class="flourish-embed flourish-chart" data-src="visualisati
 
 
 The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5669345"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+
+
+<h2> Total neurology appointments at Salford Royal and The Walton Centre in 2021 </h2>
+
+<a href="https://public.flourish.studio/visualisation/5842900/">View this visualisation</a>
+
+The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5842900"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
