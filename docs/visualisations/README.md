@@ -22,6 +22,7 @@ The embed code: <div class="flourish-embed flourish-chart" data-src="visualisati
 
 <h2> Face-to-face appointments with MS nurses at Salford Royal Hosptial </h2>
 
+<a href="https://public.flourish.studio/visualisation/5669345/">View this visualisation </a>
 
 The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5669345"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
