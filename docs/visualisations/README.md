@@ -27,8 +27,14 @@ The embed code: <div class="flourish-embed flourish-chart" data-src="visualisati
 The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5669345"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 
-<h2> Total neurology appointments at Salford Royal and The Walton Centre in 2021 </h2>
+<h2> Total neurology appointments at The Walton Centre in 2021 </h2>
 
-<a href="https://public.flourish.studio/visualisation/5842900/">View this visualisation</a>
+<a href="https://public.flourish.studio/visualisation/5990895/">View this visualisation</a>
 
-The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5842900"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5990895"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<h2> Total neurology appointments at Salford Royal Hospital </h2>
+
+<a href="https://public.flourish.studio/visualisation/6044639/"> View this visualisation </a>
+
+The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/6044639"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
