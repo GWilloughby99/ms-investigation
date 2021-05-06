@@ -6,7 +6,7 @@
     <ul>
       <li>MS Trust</li>
       <li>MS Society</li>
-      <li>Salford Royal Hospital NHS Foundaion Trust</li>
+      <li>Salford Royal Hospital NHS Foundation Trust</li>
       <li> The Walton Centre </li>
       <li> The Department for Health and Social Care </li>
     <ul>
