@@ -32,6 +32,13 @@
   
   <img src="/docs/visualisations/sr-wc-combined-mri-2020-average.png" alt="MRI scans have decreased in the two hospitals in the North West">
   
+  <h3> Salford Royal neurology appointments in 2021 </h3>
+  
+  <p> The third lockdown in England cased further disruption over the Christmas months but the signs are positive at the Salford Royal Hospital. </p>
+  
+  <img src="/docs/visualisations/SR-neurology 2021.png" alt="Neurology appointments at Salford Royal are recovering to pre-pandemic levels">
+  
+  
   
   
  
