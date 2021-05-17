@@ -38,7 +38,11 @@
   
   <img src="/docs/visualisations/SR-neurology 2021.png" alt="Neurology appointments at Salford Royal are recovering to pre-pandemic levels" style="width:1000px">
   
+  <h3> The Walton Centre neurology appointments in 2021 </h3>
   
+  <p> While Salford Royal has showed signs of recovery, statistics for The Walton Centre reveal that neurology appointments are still way below the levels seen pre-pandemic. </p>
+  
+  <img src="docs/visualisations/WC-neurology 2021.png" alt="Neurology appointments at The Walton Centre are still way below the levels recorded pre-pandemic">
   
   
  
