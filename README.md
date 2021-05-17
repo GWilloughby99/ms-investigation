@@ -13,4 +13,8 @@
  <p>
   All the data in this piece was acquired using Freedom of Information requests. National data was difficult to obtain, so a localised approached requesting data from hospitals proved to be the most effective strategy.
   </p>
+  
+  <h3> Neurology appointments </h3>
+  
+  <img src="/docs/visualisations/neurological appointments-sr-wc.png" alt="Salford Royal and The Walton Centre have seen decreases in the number of neurology appointments during the pandemic">
  
