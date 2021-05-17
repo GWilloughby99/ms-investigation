@@ -26,4 +26,12 @@
   
   <img src="/docs/visualisations/ms-nurse-2019-sr.png" alt="In person appointments with MS Nurses have been lower in 2020 compared to 2019">
   
+  <h3> MRI scans </h3>
+  
+  <p> Scans help determine a diagnosis and help track disease progression. MRI scans, much like other aspects of treatment for MS, have fallen. Fewer scans add to concerns of worse disability and a more advanced health challenges. </p>
+  
+  <img src="/docs/visualisations/sr-wc-combined-mri-2020-average.png" alt="MRI scans have decreased in the two hospitals in the North West">
+  
+  
+  
  
