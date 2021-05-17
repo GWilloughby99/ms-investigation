@@ -36,7 +36,7 @@
   
   <p> The third lockdown in England cased further disruption over the Christmas months but the signs are positive at the Salford Royal Hospital. </p>
   
-  <img src="/docs/visualisations/SR-neurology 2021.png" alt="Neurology appointments at Salford Royal are recovering to pre-pandemic levels">
+  <img src="/docs/visualisations/SR-neurology 2021.png" alt="Neurology appointments at Salford Royal are recovering to pre-pandemic levels" style="width:1000px">
   
   
   
