@@ -28,7 +28,7 @@
   
   <h3> MRI scans </h3>
   
-  <p> Scans help determine a diagnosis and help track disease progression. MRI scans, much like other aspects of treatment for MS, have fallen. Fewer scans add to concerns of worse disability and a more advanced health challenges. </p>
+  <p> Scans help determine a diagnosis and help track disease progression. MRI scans, much like other aspects of treatment for MS, have fallen. Fewer scans add to concerns of worse disability and more advanced health challenges. </p>
   
   <img src="/docs/visualisations/sr-wc-combined-mri-2020-average.png" alt="MRI scans have decreased in the two hospitals in the North West">
   
