@@ -16,5 +16,14 @@
   
   <h3> Neurology appointments </h3>
   
+  <p> The number of neurological appointments for the two hospitals in the North West has fallen for MS patients. Multiple lockdowns has made things more difficult and an overriding fear of the virus are two possible explanations. </p>
+  
   <img src="/docs/visualisations/neurological appointments-sr-wc.png" alt="Salford Royal and The Walton Centre have seen decreases in the number of neurology appointments during the pandemic">
+  
+  <h3> Face-to-face appointments with MS Nurses </h3>
+  
+  <p> Appointments with MS nurses have been impacted in the past year. To cope with the demand for Covid-19 patients, some MS nurses were redeployed leaving behind a skeleton crew </p>
+  
+  <img src="/docs/visualisations/ms-nurse-2019-sr.png" alt="In person appointments with MS Nurses have been lower in 2020 compared to 2019">
+  
  
