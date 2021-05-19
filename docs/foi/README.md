@@ -25,7 +25,7 @@ Under FOI guidelines you have 20 working days to answer these questions. Please 
 
  
 
-If you are not the right person to deal with this request, please would you kindly pass it to the appropriate colleague and ask them to deal with it?
+**If you are not the right person to deal with this request, please would you kindly pass it to the appropriate colleague and ask them to deal with it?**
 
  
 
