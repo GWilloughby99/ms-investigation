@@ -8,11 +8,10 @@
  
  <h2> Salford Royal Hospital and The Walton Centre MRI scan story </h2>
  
- <div class="flourish-embed" data-src="story/781715"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ <a href="https://public.flourish.studio/story/807759/">View this visualisation </a>
  
- https://public.flourish.studio/story/781715/
-
-
+ <div class="flourish-embed" data-src="story/807759"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ 
 <h2> Total neurology appointments at Salford Royal and The Walton Centre </h2>
 
 <a href="https://public.flourish.studio/visualisation/5679628/">View this visualisation</a>
