@@ -10,30 +10,30 @@
  
  <a href="https://public.flourish.studio/story/807759/">View this visualisation </a>
  
- <div class="flourish-embed" data-src="story/807759"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ <img src="/docs/visualisations/sr-wc-combined-mri-2020-average.png" alt="MRI scans have decreased in the two hospitals in the North West">
  
 <h2> Total neurology appointments at Salford Royal and The Walton Centre </h2>
 
 <a href="https://public.flourish.studio/visualisation/5679628/">View this visualisation</a>
 
-The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5679628"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<img src="/docs/visualisations/neurological appointments-sr-wc.png" alt="Salford Royal and The Walton Centre have seen decreases in the number of neurology appointments during the pandemic">
 
 
 <h2> Face-to-face appointments with MS nurses at Salford Royal Hosptial </h2>
 
 <a href="https://public.flourish.studio/visualisation/5669345/">View this visualisation </a>
 
-The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5669345"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
+<img src="/docs/visualisations/ms-nurse-2019-sr.png" alt="In person appointments with MS Nurses have been lower in 2020 compared to 2019">
 
 
 <h2> Total neurology appointments at The Walton Centre in 2021 </h2>
 
 <a href="https://public.flourish.studio/visualisation/5990895/">View this visualisation</a>
 
-The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/5990895"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<img src="docs/visualisations/WC-neurology 2021.png" alt="Neurology appointments at The Walton Centre are still way below the levels recorded pre-pandemic">
 
-<h2> Total neurology appointments at Salford Royal Hospital </h2>
+<h2> Total neurology appointments at Salford Royal Hospital in 2021 </h2>
 
 <a href="https://public.flourish.studio/visualisation/6044639/"> View this visualisation </a>
 
-The embed code: <div class="flourish-embed flourish-chart" data-src="visualisation/6044639"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ <img src="/docs/visualisations/SR-neurology 2021.png" alt="Neurology appointments at Salford Royal are recovering to pre-pandemic levels" style="width:1000px">
