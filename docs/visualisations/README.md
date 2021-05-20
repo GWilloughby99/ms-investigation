@@ -30,7 +30,7 @@
 
 <a href="https://public.flourish.studio/visualisation/5990895/">View this visualisation</a>
 
-<img src="docs/visualisations/WC-neurology 2021.png" alt="Neurology appointments at The Walton Centre are still way below the levels recorded pre-pandemic">
+<img src="/docs/visualisations/WC-neurology 2021.png" alt="Neurology appointments at The Walton Centre are still way below the levels recorded pre-pandemic">
 
 <h2> Total neurology appointments at Salford Royal Hospital in 2021 </h2>
 
