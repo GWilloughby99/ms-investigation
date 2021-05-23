@@ -4,7 +4,7 @@
     This repo contains all the relevant files and documents that went into my investigation into the challenges people with Multiple Sclerosis faced during the pandemic.
   </p>
   
-  <a href="2021-05-22-People Have Been Genuinely Suffering Very Severely: The Impact Covid 19 Has Had On Those Living With Multiple Sclerosis">People Have Been Genuinely Suffering Very Severely: The Impact Covid 19 Has Had On Those Living With Multiple Sclerosis </a>
+  <a href="2021-05-23-People Have Been Genuinely Suffering Very Severely: The Impact Covid 19 Has Had On Those Living With Multiple Sclerosis">People Have Been Genuinely Suffering Very Severely: The Impact Covid 19 Has Had On Those Living With Multiple Sclerosis </a>
 
 <h3> Get the data </h3>
 <p>
@@ -46,5 +46,5 @@
   
   <img src="docs/visualisations/WC-neurology 2021.png" alt="Neurology appointments at The Walton Centre are still way below the levels recorded pre-pandemic">
   
-  To read the full story, <a href="2021-05-22-People Have Been Genuinely Suffering Very Severely: The Impact Covid 19 Has Had On Those Living With Multiple Sclerosis"> click here </a>
+  To read the full story, <a href="2021-05-23-People Have Been Genuinely Suffering Very Severely: The Impact Covid 19 Has Had On Those Living With Multiple Sclerosis"> click here </a>
  
